@@ -8,7 +8,7 @@ export default function Banner() {
       <div className={styles.apresentacao}>
         <h1 className={styles.titulo}>Olá, Mundo!</h1>
         <p className={styles.paragrafo}>
-          Texto aqui: ========================================
+          Sint minim nulla consequat in esse adipisicing enim anim culpa esse sunt esse laboris veniam. Eu laboris enim adipisicing cillum id ex. Ex sint et anim tempor.
         </p>
       </div>
       <div className={styles.imagens}>
